@@ -37,5 +37,15 @@ You need to have [**node**](https://nodejs.org/en/) as well as [**npm**](https:/
 -   **`steps.json`** - contains the `.json` file to send the steps of Peanut Butter Jelly Sandwich data to [Symbl.ai-client](https://github.com/VVB2/symbl.ai-client)
 -   **`client.js`** - contains the `.js` file which implements API calls using **JavaScript**
 -   **`client.py`** - contains the `.py` file which implements API calls using **Python**
+
+```
+.
+├── [  20]  Procfile
+├── [3.9K]  data.json
+├── [125K]  package-lock.json
+├── [ 408]  package.json
+├── [ 512]  server.js
+└── [3.2K]  steps.json
+```
  
 ---
